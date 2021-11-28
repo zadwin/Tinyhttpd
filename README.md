@@ -2,7 +2,7 @@ A mirror for tinyhttpd(Tinyhttpd非官方镜像,Fork自[sourceForge](https://sou
 
 测试CGI时需要本机安装PERL，同时安装perl-cgi
 
-### Prepare 
+### Prepare
 Compile for Linux
 ```
  To compile for Linux:
